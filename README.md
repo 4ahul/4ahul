@@ -1,14 +1,14 @@
-# Rahul | AI Engineer & Backend Systems Architect
-
 <div align="center">
+
+# 🚀 Rahul Sagar | AI Engineer & Backend Systems Architect
   
-  ### Crafting Intelligent Multi-Agent Systems & Production-Grade AI Infrastructure
+### Crafting Intelligent Multi-Agent Systems & Production-Grade AI Infrastructure
   
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulsagar280103@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulsagar21)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/me.rahuull)
   
-  ![Profile Views](https://visitcount.itsvg.in/api?id=4ahul&icon=2&color=12)
+  ![Profile Views](https://komarev.com/ghpvc/?username=4ahul&color=00B4D8&style=for-the-badge&label=Profile+Views)
   
 </div>
 
@@ -159,15 +159,15 @@ Compare, benchmark, and dynamically route requests across different LLM provider
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=4ahul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=4ahul&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=4ahul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=4ahul&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ahul&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF&layout=compact&langs_count=8&hide=html,css" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=4ahul&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00B4D8&line=00B4D8&point=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ahul&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF&layout=compact&langs_count=8&hide=html,css" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=4ahul&theme=react-dark&hide_border=true&bg_color=0D1117&color=00B4D8&line=00B4D8&point=FFFFFF&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
 
 </div>
 
