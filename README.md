@@ -1,6 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0096C7&height=150&section=header&text=AI%20Engineer%20%26%20Backend%20Systems%20Architect&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header)
+
+# 🚀 AI Engineer & Backend Systems Architect
 
 ### 🤖 Crafting Intelligent Multi-Agent Systems & Production-Grade AI Infrastructure
   
