@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🚀 Rahul Sagar | AI Engineer & Backend Systems Architect
-  
-### Crafting Intelligent Multi-Agent Systems & Production-Grade AI Infrastructure
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rahul&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%26%20Backend%20Systems%20Architect&descAlignY=51&descAlign=50" />
+
+### 🚀 Crafting Intelligent Multi-Agent Systems & Production-Grade AI Infrastructure
   
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulsagar280103@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulsagar21)
@@ -158,21 +158,41 @@ Compare, benchmark, and dynamically route requests across different LLM provider
 ## 📊 GitHub Stats
 
 <div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=4ahul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=4ahul&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=4ahul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
 
+</td>
+<td width="50%">
+
+<img src="https://streak-stats.demolab.com?user=4ahul&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" alt="GitHub Streak" width="100%" />
+
+</td>
+</tr>
+</table>
 </div>
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ahul&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF&layout=compact&langs_count=8&hide=html,css" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=4ahul&theme=react-dark&hide_border=true&bg_color=0D1117&color=00B4D8&line=00B4D8&point=FFFFFF&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+<table>
+<tr>
+<td width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ahul&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF&layout=compact&langs_count=8&hide=html,css" alt="Top Languages" width="100%" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=4ahul&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="100%" />
+
+</td>
+</tr>
+</table>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=4ahul&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=4ahul&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 ---
