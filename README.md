@@ -1,4 +1,4 @@
-# 🚀 Rahul Sagar | AI Engineer & Backend Systems Architect
+# Rahul | AI Engineer & Backend Systems Architect
 
 <div align="center">
   
