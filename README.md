@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=AI%20Engineer%20%26%20Backend%20Systems%20Architect&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=40&descAlign=50" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:0096C7&height=150&section=header&text=AI%20Engineer%20%26%20Backend%20Systems%20Architect&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
 ### 🤖 Crafting Intelligent Multi-Agent Systems & Production-Grade AI Infrastructure
   
@@ -86,7 +86,7 @@ class RahulSagar:
 
 </details>
 
-<details>
+<details open>
 <summary><b>☁️ Cloud & DevOps</b></summary>
 <br>
 
@@ -97,7 +97,7 @@ class RahulSagar:
 
 </details>
 
-<details>
+<details open>
 <summary><b>🎨 Frontend & Visualization</b></summary>
 <br>
 
