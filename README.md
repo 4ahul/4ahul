@@ -158,41 +158,22 @@ Compare, benchmark, and dynamically route requests across different LLM provider
 ## 📊 GitHub Stats
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=4ahul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
+![](https://github-readme-stats.vercel.app/api?username=4ahul&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=4ahul&theme=tokyonight&hide_border=true)
 
-</td>
-<td width="50%">
-
-<img src="https://streak-stats.demolab.com?user=4ahul&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" alt="GitHub Streak" width="100%" />
-
-</td>
-</tr>
-</table>
 </div>
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ahul&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF&layout=compact&langs_count=8&hide=html,css" alt="Top Languages" width="100%" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=4ahul&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
-</td>
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=4ahul&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="100%" />
-
-</td>
-</tr>
-</table>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=4ahul&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+
+![](https://github-profile-trophy.vercel.app/?username=4ahul&theme=tokyonight&no-frame=true&row=1&column=7)
+
 </div>
 
 ---
