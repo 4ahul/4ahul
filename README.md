@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rahul&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%26%20Backend%20Systems%20Architect&descAlignY=51&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=AI%20Engineer%20%26%20Backend%20Systems%20Architect&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=40&descAlign=50" />
 
-### 🚀 Crafting Intelligent Multi-Agent Systems & Production-Grade AI Infrastructure
+### 🤖 Crafting Intelligent Multi-Agent Systems & Production-Grade AI Infrastructure
   
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulsagar280103@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulsagar21)
